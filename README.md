@@ -1,4 +1,4 @@
-# Project 7 – Single Sign-On Federation with Microsoft Entra ID and SAML Tracer
+# Project 7 – SAML 2.0 Single Sign-On Federation with Microsoft Entra ID and SAML Tracer
 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![SAML](https://img.shields.io/badge/Protocol-SAML%202.0-orange?style=flat)
@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project demonstrates the configuration of **Single Sign-On** between **Microsoft Entra ID** acting as the Identity Provider and a test enterprise application called **VaultBridge** acting as the Service Provider. The federation trust was established by configuring the Entity ID, Assertion Consumer Service URL, and SAML metadata. Test users were assigned to the application and a live SAML assertion was captured and inspected using the **SAML Tracer** browser extension, confirming the full authentication flow end to end.
+This project demonstrates the configuration of **SAML 2.0 Single Sign-On** between **Microsoft Entra ID** acting as the Identity Provider and a test enterprise application called **VaultBridge** acting as the Service Provider. The federation trust was established by configuring the Entity ID, Assertion Consumer Service URL, and SAML metadata. Test users were assigned to the application and a live SAML assertion was captured and inspected using the **SAML Tracer** browser extension, confirming the full authentication flow end to end.
 
 ---
 
